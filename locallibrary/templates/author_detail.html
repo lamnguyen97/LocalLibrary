@@ -1,0 +1,12 @@
+{% extends 'base_html.html' %}
+
+{% block content %}
+<h2>Author: {{ author.first_name}} {{ author.last_name}}</h2>
+    <p>{{ author.dob }}</p>
+<h4><strong>Books</strong></h4>
+    {% for book in author.book_set.all %}
+        <h4><a href={% url 'book_detail' book.id %}>{{ book.title }}</a></h4>
+          <p>{{ book.summary }}</p>
+    {% endfor %}
+
+{% endblock %}

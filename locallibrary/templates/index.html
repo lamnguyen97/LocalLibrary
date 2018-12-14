@@ -1,0 +1,13 @@
+{% extends 'base_html.html' %}
+
+{% block content %}
+<h2 style ="margin: 20px auto">Local Library Home</h2>
+    <p>This is a small project using Django.</p>
+     <h2>We are having: </h2>
+         <p>Number of Books: {{ num_book }}</p>
+         <p>Number of Authors: {{ num_author }}</p>
+         <p>Number of Copies: {{ num_copy }}</p>
+         <p>Number of Copies Available: {{ num_avail }}</p>
+          <p>Number of Genre: {{ num_genre }}</p>
+
+{% endblock %}
