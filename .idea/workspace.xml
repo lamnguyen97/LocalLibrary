@@ -5,10 +5,7 @@
     <bookmark url="file://$PROJECT_DIR$/locallibrary/templates/author_detail.html" line="3" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2cf1a49f-eb7c-41f1-8e64-17f5ef691e22" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Second_Project/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Second_Project/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/pip-selfcheck.json" beforeDir="false" afterPath="$PROJECT_DIR$/venv/pip-selfcheck.json" afterDir="false" />
-    </list>
+    <list default="true" id="2cf1a49f-eb7c-41f1-8e64-17f5ef691e22" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,7 +18,7 @@
         <entry file="file://$PROJECT_DIR$/Second_Project/settings.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="321">
-              <caret line="52" column="49" lean-forward="true" selection-start-line="52" selection-start-column="49" selection-end-line="52" selection-end-column="49" />
+              <caret line="52" column="48" selection-start-line="52" selection-start-column="48" selection-end-line="52" selection-end-column="48" />
             </state>
           </provider>
         </entry>
@@ -189,12 +186,12 @@
       <workItem from="1544686023269" duration="10539000" />
       <workItem from="1544752234946" duration="10506000" />
       <workItem from="1545355365439" duration="9284000" />
-      <workItem from="1545373010646" duration="10178000" />
+      <workItem from="1545373010646" duration="10906000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40507000" />
+    <option name="totallyTimeSpent" value="41235000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -207,7 +204,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18496802" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -489,7 +485,7 @@
     <entry file="file://$PROJECT_DIR$/Second_Project/settings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="321">
-          <caret line="52" column="49" lean-forward="true" selection-start-line="52" selection-start-column="49" selection-end-line="52" selection-end-column="49" />
+          <caret line="52" column="48" selection-start-line="52" selection-start-column="48" selection-end-line="52" selection-end-column="48" />
         </state>
       </provider>
     </entry>
