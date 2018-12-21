@@ -7,10 +7,8 @@ class BooksInstanceInline(admin.TabularInline):
 
 admin.site.register(Author)
 admin.site.register(Genre)
+admin.site.register(BookInstance)
 
-@admin.register(BookInstance)
-class BookInstanceAdmin(admin.ModelAdmin):
-    list_filter = ('status', 'due_back')
 
 @admin.register(Book)
 class BookAdmin(admin.ModelAdmin):
